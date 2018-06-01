@@ -25,3 +25,16 @@ Here are the lectures of the course for this section.
 
 **After watching (learning outcomes)…**
 Ready and raring to start this section.
+
+
+### 2 Text101 Game Design ###
+
+**In this video (objectives)…**
+
+1. Overview of our game design, core mechanic and theme
+2. Some high level design insight on how we are creating a game for other people
+3. A challenge to flex your designer muscles and come up with your own game theme
+
+
+**After watching (learning outcomes)…**
+Clear on the design for our game.
