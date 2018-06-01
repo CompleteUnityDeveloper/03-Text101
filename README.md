@@ -38,3 +38,17 @@ Ready and raring to start this section.
 
 **After watching (learning outcomes)…**
 Clear on the design for our game.
+
+
+### 3 Creating Sprites In Unity ###
+
+**In this video (objectives)…**
+
+1. Introduction to Unity's main windows - Hierarchy, Scene, Game, Project, Inspector.
+2. Create simple square and circle sprites.
+3. Compare the difference between 2D and 3D scene view.
+4. Build a simple platformer scene for fun.
+
+
+**After watching (learning outcomes)…**
+Capable of adding sprite Game Objects into a scene in Unity.
