@@ -3,17 +3,17 @@ using System.Collections.Generic;
 using UnityEngine;
 
 [CreateAssetMenu(menuName = "State")]
-public class StateConfig : ScriptableObject
+public class State : ScriptableObject
 {
-    [TextArea(3, 10)] [SerializeField] string storyText;
-    [SerializeField] StateConfig[] nextStates;
+    [TextArea(14, 20)] [SerializeField] string storyText;
+    [SerializeField] State[] nextStates;
 
     public string GetStateStory()
     {
         return storyText;
     }
 
-    public StateConfig[] GetNextStates()
+    public State[] GetNextStates()
     {
         return nextStates;
     }

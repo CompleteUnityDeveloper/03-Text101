@@ -7,10 +7,10 @@ public class PrisonGame : MonoBehaviour
 {
     // configuration parameters
     [SerializeField] Text textComponent;
-    [SerializeField] StateConfig startingState;
+    [SerializeField] State startingState;
 
     // state variables
-    StateConfig state;
+    State state;
 
     // Use this for initialization
     void Start()
@@ -28,15 +28,15 @@ public class PrisonGame : MonoBehaviour
     private void ManageState()
     {
         var nextStates = state.GetNextStates();
-        if (Input.GetKeyDown(KeyCode.Alpha0))
+        if (Input.GetKeyDown(KeyCode.Alpha1))
         {
             state = nextStates[0];
         }
-        else if (Input.GetKeyDown(KeyCode.Alpha1))
+        else if (Input.GetKeyDown(KeyCode.Alpha2))
         {
             state = nextStates[1];
         }
-        else if (Input.GetKeyDown(KeyCode.Alpha2))
+        else if (Input.GetKeyDown(KeyCode.Alpha3))
         {
             state = nextStates[2];
         }
