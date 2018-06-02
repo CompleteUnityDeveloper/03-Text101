@@ -51,4 +51,21 @@ Clear on the design for our game.
 
 
 **After watching (learning outcomes)…**
+
 Capable of adding sprite Game Objects into a scene in Unity.
+
+
+### 4 UI Canvas & Text ###
+
+**In this video (objectives)…**
+
+1. Introduction to Unity canvas for UI.
+2. Initial discussion of parent-child relationship for Game Objects in hierarchy.
+3. Add text elements.
+4. Edit text, resize elements.
+5. Add UI images as background elements.
+
+
+**After watching (learning outcomes)…**
+
+Able to create UI Canvas with text elements and plain image objects.
