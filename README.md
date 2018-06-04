@@ -84,3 +84,17 @@ Able to create UI Canvas with text elements and plain image objects.
 **After watching (learning outcomes)…**
 
 Capable of programmatically adding a string of text to a UI text field.
+
+
+### 6 Game States ###
+
+**In this video (objectives)…**
+
+1. What are states and what is a state machine.
+2. Creating decision points for the player.
+3. How to manage all of our states and conditions - scriptable objects.
+
+
+**After watching (learning outcomes)…**
+
+Understand our requirements regarding states and create your first state for your text adventure game.
