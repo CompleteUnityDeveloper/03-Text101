@@ -69,3 +69,18 @@ Capable of adding sprite Game Objects into a scene in Unity.
 **After watching (learning outcomes)…**
 
 Able to create UI Canvas with text elements and plain image objects.
+
+
+### 5 Update Text Component ###
+
+**In this video (objectives)…**
+
+1. Deeper understanding of how Unity Game Objects, Components and Properties relate to one another.
+2. Introduction to [SerializeField].
+3. Creating a reference to a text field.
+4. Printing a string to our UI text field.
+
+
+**After watching (learning outcomes)…**
+
+Capable of programmatically adding a string of text to a UI text field.
