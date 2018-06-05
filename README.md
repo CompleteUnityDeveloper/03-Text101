@@ -98,3 +98,17 @@ Capable of programmatically adding a string of text to a UI text field.
 **After watching (learning outcomes)…**
 
 Understand our requirements regarding states and create your first state for your text adventure game.
+
+
+### 7 Unity Scriptable Objects ###
+
+**In this video (objectives)…**
+
+1. What is a scriptable object and why use it?
+2. Use CreateAssetMenu so that we have a context menu to add scriptable objects.
+3. Create our first scriptable object.
+
+
+**After watching (learning outcomes)…**
+
+Create our first scriptable object.
