@@ -112,3 +112,17 @@ Understand our requirements regarding states and create your first state for you
 **After watching (learning outcomes)…**
 
 Create our first scriptable object.
+
+
+### 8 Public Methods & Return Types ###
+
+**In this video (objectives)…**
+
+1. Public versus private access modifier. 
+2. What are return types for methods.
+3. Writing a public method and accessing it from another class.
+
+
+**After watching (learning outcomes)…**
+
+Create a public method and access it from another class.
