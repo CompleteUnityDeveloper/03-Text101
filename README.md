@@ -155,3 +155,16 @@ Understand how to create arrays and assign elements to arrays in code or in the 
 **After watching (learning outcomes)…**
 
 Complete our small adventure game engine using player input and state flow.
+
+
+### 11 Game State Story Design ###
+
+**In this video (objectives)…**
+
+1. Using draw.io for our state diagram and flow. 
+2. Time to create your own story.
+
+
+**After watching (learning outcomes)…**
+
+Capable of creating a flow chart for your story.
