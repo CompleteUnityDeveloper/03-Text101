@@ -126,3 +126,18 @@ Create our first scriptable object.
 **After watching (learning outcomes)…**
 
 Create a public method and access it from another class.
+
+
+### 9 Creating An Array ###
+
+**In this video (objectives)…**
+
+1. What is an array and how are arrays created. 
+2. Returning an array type variable from within a public method.
+3. Assigning array elements in Unity by dragging and dropping into the inspector.
+4. How to lock the inspector window.
+
+
+**After watching (learning outcomes)…**
+
+Understand how to create arrays and assign elements to arrays in code or the inspector.
