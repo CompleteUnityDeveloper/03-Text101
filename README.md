@@ -140,4 +140,18 @@ Create a public method and access it from another class.
 
 **After watching (learning outcomes)…**
 
-Understand how to create arrays and assign elements to arrays in code or the inspector.
+Understand how to create arrays and assign elements to arrays in code or in the inspector.
+
+
+### 10 Manage Next States ###
+
+**In this video (objectives)…**
+
+1. Create a small game loop by having each state lead to another state. 
+2. Create a method to respond to player's key input.
+3. Update the game's state based upon the next state array options.
+
+
+**After watching (learning outcomes)…**
+
+Complete our small adventure game engine using player input and state flow.
