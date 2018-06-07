@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d49b76084a0a31047bab1ba42c0b8670, type: 3}
+  m_Name: A7. The Long Way Round
+  m_EditorClassIdentifier: 
+  storyText: "Good thinking, no point worrying about some random guys' plans to blow
+    up the entire pumping station by shutting off the water cooling valves. I'm sure
+    everything will be just fine. Nothing at all to worry about. Plenty of time to
+    do what you need to do.\r You take quite some time, but eventually you make your
+    way around the edge of the pumping station and see daylight.\r\n\r\nWhat! An almighty
+    screech pierces the air. Gears grinding. Steam spooshing from cracks in pipes.
+    And then, a deafening roar....\r\n\r\n1. Continue..."
+  nextStates:
+  - {fileID: 11400000, guid: 213a86f48abd7774d8c6a757c5a77e43, type: 2}

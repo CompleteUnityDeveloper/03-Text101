@@ -9,9 +9,8 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: d49b76084a0a31047bab1ba42c0b8670, type: 3}
-  m_Name: Room 2
+  m_Name: B5. Waiting
   m_EditorClassIdentifier: 
-  storyText: Okay, this looks like room 2.
+  storyText: "Not much happens, what would you like to do?\r\n\r\n1. Get running."
   nextStates:
-  - {fileID: 11400000, guid: 4ed956d6e27d4434e980286fd7d8ea62, type: 2}
-  - {fileID: 11400000, guid: f6e6bfebb5e6d9d44874538bc0cddb27, type: 2}
+  - {fileID: 11400000, guid: 59571bd5a4dedad4caf66835f78bfb0e, type: 2}

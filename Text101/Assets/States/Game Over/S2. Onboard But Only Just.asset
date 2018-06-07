@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d49b76084a0a31047bab1ba42c0b8670, type: 3}
+  m_Name: S2. Onboard But Only Just
+  m_EditorClassIdentifier: 
+  storyText: "You take what feels like an eternity to scrounge a rock flinger and
+    3 vials of tonix. When a huge machine cog lands an arm span from your head you
+    decide its time to make your dash.\r\n\r\nYou scramble aboard your airship. With
+    all of your remaining strength, you lift the anchoring rope off its huge hook
+    and give an all mighty shove.\r\n\r\nFrom behind you hear a surprised crew member.
+    He rushes. You shoot. Direct hit. Thank goodness for the weapon. You're safe.
+    For now.\r\n\r\n1. Continue..."
+  nextStates:
+  - {fileID: 11400000, guid: 2287028f5c4af244892ffa5a694d6aac, type: 2}

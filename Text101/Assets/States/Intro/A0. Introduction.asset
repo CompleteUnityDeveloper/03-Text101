@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d49b76084a0a31047bab1ba42c0b8670, type: 3}
+  m_Name: A0. Introduction
+  m_EditorClassIdentifier: 
+  storyText: "Welcome to this game. \n\nIts a choose your own adventure. Be careful
+    what you wish for!\n\nAt each stage you'll be asked to push a key on the keyboard,
+    for example 1 or 2 or 3.\n\nAt any point in time, push \"q\" to quit.\n\nPush
+    \"1\" to continue..."
+  nextStates:
+  - {fileID: 11400000, guid: f6e6bfebb5e6d9d44874538bc0cddb27, type: 2}

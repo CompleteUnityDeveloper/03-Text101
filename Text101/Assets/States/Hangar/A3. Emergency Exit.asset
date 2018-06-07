@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d49b76084a0a31047bab1ba42c0b8670, type: 3}
+  m_Name: A3. Emergency Exit
+  m_EditorClassIdentifier: 
+  storyText: "Okay, you're around the corner. No one can see you. You think.\r\n\r\nBit
+    tough to hear yourself think above the thumping machinery. However, in front of
+    you is the emergency exit door. It has an oversized, cast iron lock hanging from
+    a bolted handle. You could try picking the lock, or maybe look for a way to pry
+    it off.\r\n\r\nWhat to do?\r\n\r\n1. Pick it.\r\n2. Pry it."
+  nextStates:
+  - {fileID: 11400000, guid: 92c0fb50e9fb3fa459ec97f01f32aefb, type: 2}
+  - {fileID: 11400000, guid: 59b045af739364b44a10c6efa4c306c2, type: 2}

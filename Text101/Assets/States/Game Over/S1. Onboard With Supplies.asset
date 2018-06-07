@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d49b76084a0a31047bab1ba42c0b8670, type: 3}
+  m_Name: S1. Onboard With Supplies
+  m_EditorClassIdentifier: 
+  storyText: "You scramble aboard your airship. With all of your remaining strength,
+    you lift the anchoring rope off its huge hook and give an all mighty shove.\r\n\r\nAs
+    you start to drift out of the hangar, you hear shouts of dismay from a nearby
+    group of Festers. \r\n\r\n\"So long suckers! May we never meet again!\", you holler.
+    You may, you may not. Time will tell. \r\n\r\nYou've won this battle. Now, on
+    with the war!\r\n\r\n1. Continue..."
+  nextStates:
+  - {fileID: 11400000, guid: 2287028f5c4af244892ffa5a694d6aac, type: 2}

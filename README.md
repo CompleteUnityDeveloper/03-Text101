@@ -168,3 +168,15 @@ Complete our small adventure game engine using player input and state flow.
 **After watching (learning outcomes)…**
 
 Capable of creating a flow chart for your story.
+
+
+### 12 Organise State Files ###
+
+**In this video (objectives)…**
+
+1. Complete our game flow by adding all story states, and start and end states. 
+
+
+**After watching (learning outcomes)…**
+
+Add all our states to our game.

@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d49b76084a0a31047bab1ba42c0b8670, type: 3}
+  m_Name: A2. In A Cell
+  m_EditorClassIdentifier: 
+  storyText: "Well, that was pretty stupid. You sustain a brutal beating and end up
+    dumped in a dirty cell. The bars are thick cast iron. The door is old and patched
+    together with plate metal and thick red wires.\r\n\r\nYou have no idea where you
+    are. And your head hurts.\r\n\r\nSo, what to do now, slugger?\r\n\r\n1. Wait it
+    out. My head hurts.\r\n2. Slam into the door with all my might."
+  nextStates:
+  - {fileID: 11400000, guid: eafd5de9a4a088a469d2215fdf1e86f4, type: 2}
+  - {fileID: 11400000, guid: ff4f99e5cba16be4c9d82ccfb3049bc0, type: 2}

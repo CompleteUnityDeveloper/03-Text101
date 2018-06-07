@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d49b76084a0a31047bab1ba42c0b8670, type: 3}
+  m_Name: A10. Narrow Escape
+  m_EditorClassIdentifier: 
+  storyText: "You take your cue from the two men and get on your horse. Figuratively
+    of course, no one rides horses since the combustamobile was invented.\r\n\r\nYou
+    zig. You zag. You weave through the huge machinery of the pumping station. Steam
+    jets have started squirting out of pipes. Gears are grinding to a halt. You see
+    the exit ahead.\r\n\r\nSomething behind you gives a grinding screech. Metal eating
+    into metal. You leap for the door and slide through on your stomach, just as all
+    hell breaks lose behind you.\r\n\r\n1. Continue..."
+  nextStates:
+  - {fileID: 11400000, guid: 81fca26ed6b6344499f8c425d3880830, type: 2}
