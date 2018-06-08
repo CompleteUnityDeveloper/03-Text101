@@ -180,3 +180,19 @@ Capable of creating a flow chart for your story.
 **After watching (learning outcomes)…**
 
 Add all our states to our game.
+
+
+### 13 TextMesh Pro & Polish ###
+
+**In this video (objectives)…**
+
+1. Using Unity's Package Manager to install TextMesh Pro.
+2. Font a font online to bring into your project.
+3. Create font atlas using the font you found and TextMesh Pro.
+4. Create a TextMesh Pro text for your title.
+5. Find a colour scheme you like and update the colours in your game. 
+
+
+**After watching (learning outcomes)…**
+
+Know how to use TextMesh Pro and how to polish the look of your game.
