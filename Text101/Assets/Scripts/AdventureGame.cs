@@ -4,7 +4,8 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 
-public class AdventureGame : MonoBehaviour {
+public class AdventureGame : MonoBehaviour
+{
 
     [SerializeField] Text textComponent;
     [SerializeField] State startingState;
@@ -12,13 +13,15 @@ public class AdventureGame : MonoBehaviour {
     State state;
 
 	// Use this for initialization
-	void Start () {
+	void Start()
+    {
         state = startingState;
         textComponent.text = state.GetStateStory();
 	}
 	
 	// Update is called once per frame
-	void Update () {
+	void Update()
+    {
         ManageState();
 	}
 

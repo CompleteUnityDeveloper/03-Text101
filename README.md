@@ -196,3 +196,18 @@ Add all our states to our game.
 **After watching (learning outcomes)…**
 
 Know how to use TextMesh Pro and how to polish the look of your game.
+
+
+### 14 Text101 Instructor Hangout #1 ###
+
+**In this video (objectives)…**
+
+1. Further discussion regarding state as a class and state as a variable.
+2. Further discussion on how scriptable objects work, where they are saving and what is required.
+3. Code formating - where it matters and where it doesn't.
+4. Why we didn't dig into more narrative design in this section. 
+
+
+**After watching (learning outcomes)…**
+
+Deeper understanding of the concepts covered thus far in this section.
