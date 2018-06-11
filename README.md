@@ -211,3 +211,18 @@ Know how to use TextMesh Pro and how to polish the look of your game.
 **After watching (learning outcomes)…**
 
 Deeper understanding of the concepts covered thus far in this section.
+
+
+### 15 Publish Your WebGL Game ###
+
+**In this video (objectives)…**
+
+1. Adjust our screen aspect ratio and scaling.
+2. Create a WebGL build.
+3. Zip our build foler and upload to sharemygame.com.
+4. Celebrate, you've published a game! 
+
+
+**After watching (learning outcomes)…**
+
+Create a WebGL build and publish online.
