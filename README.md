@@ -226,3 +226,16 @@ Deeper understanding of the concepts covered thus far in this section.
 **After watching (learning outcomes)…**
 
 Create a WebGL build and publish online.
+
+
+### 16 For Loops ###
+
+**In this video (objectives)…**
+
+1. Find a bug in our game which causes our standalone PC build to break.
+2. Figure out why the game is breaking because of the bug.
+3. Use a for loop to change our input mechanism and stop ArrayOutOfIndex errors.
+
+**After watching (learning outcomes)…**
+
+Fix our ArrayOutOfIndex error using a for loop for player input.
